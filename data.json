@@ -1,50 +1,51 @@
 [
     {
-        "id": 1,
-        "question": "What is flutter?",
-        "options": [
-            "A type of aquatic animal",
-            "A type of cloud formation",
-            "A type of cloud",
-            "A type of cloud covering"
-        ],
-        "explaination": "",
-        "answer": 0
+      "id": 1,
+      "statement": "What is Flutter?",
+      "answer": "An open-source UI software development toolkit by Google",
+      "explanation": "Flutter is an open-source UI software development toolkit by Google.",
+      "a": "A type of aquatic animal",
+      "b": "A type of cloud formation",
+      "c": "A programming language",
+      "d": "A type of cloud covering",
+      "createdAt": "2024-12-15T00:00:00.000",
+      "updatedAt": "2024-12-15T00:00:00.000"
     },
     {
-        "id": 2,
-        "question": "What is the name of the largest ocean in the world?",
-        "options": [
-            "Atlantic Ocean",
-            "Pacific Ocean",
-            "Indian Ocean",
-            "Arctic Ocean"
-        ],
-        "explaination": "",
-        "answer": 1
+      "id": 2,
+      "statement": "What is the name of the largest ocean in the world?",
+      "answer": "Pacific Ocean",
+      "explanation": "The Pacific Ocean is the largest and deepest ocean in the world.",
+      "a": "Atlantic Ocean",
+      "b": "Pacific Ocean",
+      "c": "Indian Ocean",
+      "d": "Arctic Ocean",
+      "createdAt": "2024-12-15T00:00:00.000",
+      "updatedAt": "2024-12-15T00:00:00.000"
     },
     {
-        "id": 3,
-        "question": "What is the name of the smallest continent in the world?",
-        "options": [
-            "Antarctica",
-            "Africa",
-            "Asia",
-            "Europe"
-        ],
-        "explaination": "",
-        "answer": 2
+      "id": 3,
+      "statement": "What is the name of the smallest continent in the world?",
+      "answer": "Australia",
+      "explanation": "Australia is the smallest continent in terms of both size and population.",
+      "a": "Antarctica",
+      "b": "Australia",
+      "c": "Asia",
+      "d": "Europe",
+      "createdAt": "2024-12-15T00:00:00.000",
+      "updatedAt": "2024-12-15T00:00:00.000"
     },
     {
-        "id": 4,
-        "question": "What is the name of the largest island in the world?",
-        "options": [
-            "Greenland",
-            "Hawaii",
-            "Mexico",
-            "Bahamas"
-        ],
-        "explaination": "",
-        "answer": 3
+      "id": 4,
+      "statement": "What is the name of the largest island in the world?",
+      "answer": "Greenland",
+      "explanation": "Greenland is the largest island in the world, covering over 2.1 million square kilometers.",
+      "a": "Greenland",
+      "b": "Hawaii",
+      "c": "Madagascar",
+      "d": "Bahamas",
+      "createdAt": "2024-12-15T00:00:00.000",
+      "updatedAt": "2024-12-15T00:00:00.000"
     }
-]
+  ]
+  
