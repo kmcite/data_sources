@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "question": "What is flutter?",
+        "options": [
+            "A type of aquatic animal",
+            "A type of cloud formation",
+            "A type of cloud",
+            "A type of cloud covering"
+        ],
+        "explaination": "",
+        "answer": 0
+    },
+    {
+        "id": 2,
+        "question": "What is the name of the largest ocean in the world?",
+        "options": [
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+        ],
+        "explaination": "",
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "question": "What is the name of the smallest continent in the world?",
+        "options": [
+            "Antarctica",
+            "Africa",
+            "Asia",
+            "Europe"
+        ],
+        "explaination": "",
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "question": "What is the name of the largest island in the world?",
+        "options": [
+            "Greenland",
+            "Hawaii",
+            "Mexico",
+            "Bahamas"
+        ],
+        "explaination": "",
+        "answer": 3
+    }
+]
